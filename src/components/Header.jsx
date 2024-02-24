@@ -1,11 +1,9 @@
 
-import InputMain from "./InputMain"
 
 export default function Header(){
     return (
         <div>
-        <h1>Todo App</h1>
-        <InputMain />
+        <h1>ToDo App</h1>
         </div>
     )
 }
